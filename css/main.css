@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+.portfolio-item {
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+}
+
+.text-primary{
+    color: blue;
+}
+
+.nav-link{
+    color: #2200e2;
+}
+
+.colored-background {
+    background-color: #13eaf9;
+    padding: 20px;
+}
+
+
+
+.about-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-color{
+    color: rgb(0, 0, 43);
+    background-color: cornflowerblue;
+    margin: 20px;
+}
+
+.form-group{
+    background-color: aqua;
+}
